@@ -1,0 +1,27 @@
+{
+    "bmApiId": "",
+    "token": "",
+    "clientId": "",
+    "guildId": "",
+    "hllServers": [
+        {
+            "id": "",
+            "name": "Server"
+        },
+        {
+            "id": "",
+            "name": "Server"
+        },
+        {
+            "id": "",
+            "name": "Server"
+        },
+        {
+            "id": "",
+            "name": "Server"
+        }
+    ],
+    "vipBossRoleId": "",
+    "staffRoleId": "",
+    "vipCommandId": ""
+}
